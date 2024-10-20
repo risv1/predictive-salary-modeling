@@ -1,2 +1,4 @@
 target/
 venv
+*.pth
+__pycache__/

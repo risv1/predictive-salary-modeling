@@ -1,0 +1,7 @@
+numpy
+tensorflow
+pyspark
+scikit-learn
+fastapi
+uvicorn
+starlette
